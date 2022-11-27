@@ -2,65 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Gaurang Bhatnagar</title>
-    <link>https://examplesite.com/tags/</link>
+    <link>https://offsec.space/tags/</link>
     <description>Recent content in Tags on Gaurang Bhatnagar</description>
     <image>
-      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://offsec.space/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://offsec.space/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 27 Nov 2022 01:30:03 +0000</lastBuildDate><atom:link href="https://examplesite.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Nov 2022 01:30:03 +0000</lastBuildDate><atom:link href="https://offsec.space/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Android</title>
-      <link>https://examplesite.com/tags/android/</link>
+      <link>https://offsec.space/tags/android/</link>
       <pubDate>Sun, 27 Nov 2022 01:30:03 +0000</pubDate>
       
-      <guid>https://examplesite.com/tags/android/</guid>
+      <guid>https://offsec.space/tags/android/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bug bounty</title>
-      <link>https://examplesite.com/tags/bug-bounty/</link>
+      <link>https://offsec.space/tags/bug-bounty/</link>
       <pubDate>Sun, 27 Nov 2022 01:30:03 +0000</pubDate>
       
-      <guid>https://examplesite.com/tags/bug-bounty/</guid>
+      <guid>https://offsec.space/tags/bug-bounty/</guid>
       <description></description>
     </item>
     
     <item>
       <title>project</title>
-      <link>https://examplesite.com/tags/project/</link>
+      <link>https://offsec.space/tags/project/</link>
       <pubDate>Sat, 18 Dec 2021 11:30:03 +0000</pubDate>
       
-      <guid>https://examplesite.com/tags/project/</guid>
+      <guid>https://offsec.space/tags/project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>firmware</title>
-      <link>https://examplesite.com/tags/firmware/</link>
+      <link>https://offsec.space/tags/firmware/</link>
       <pubDate>Sat, 30 Oct 2021 11:30:03 +0000</pubDate>
       
-      <guid>https://examplesite.com/tags/firmware/</guid>
+      <guid>https://offsec.space/tags/firmware/</guid>
       <description></description>
     </item>
     
     <item>
       <title>iot</title>
-      <link>https://examplesite.com/tags/iot/</link>
+      <link>https://offsec.space/tags/iot/</link>
       <pubDate>Sat, 30 Oct 2021 11:30:03 +0000</pubDate>
       
-      <guid>https://examplesite.com/tags/iot/</guid>
+      <guid>https://offsec.space/tags/iot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>pentest</title>
-      <link>https://examplesite.com/tags/pentest/</link>
+      <link>https://offsec.space/tags/pentest/</link>
       <pubDate>Sat, 30 Oct 2021 11:30:03 +0000</pubDate>
       
-      <guid>https://examplesite.com/tags/pentest/</guid>
+      <guid>https://offsec.space/tags/pentest/</guid>
       <description></description>
     </item>
     
