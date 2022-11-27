@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Android on Gaurang Bhatnagar</title>
+    <link>https://examplesite.com/tags/android/</link>
+    <description>Recent content in Android on Gaurang Bhatnagar</description>
+    <image>
+      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 27 Nov 2022 01:30:03 +0000</lastBuildDate><atom:link href="https://examplesite.com/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Multiple Vulnerabilities found in Airtel Android Application</title>
+      <link>https://examplesite.com/posts/airtel-vulnerabilities/</link>
+      <pubDate>Sun, 27 Nov 2022 01:30:03 +0000</pubDate>
+      
+      <guid>https://examplesite.com/posts/airtel-vulnerabilities/</guid>
+      <description>Before presenting my talk at SourceZeroCon on Deep Dive into Android Static Analysis, I spent a lot of time understanding WebViews and looked for vulnerable implementations in popular Android applications (mainly applications with 100M+ downloads). One such application was Airtel Thanks where I identified a number of vulnerabilities. This blog post discusses about the high impact vulnerabilities that were reported.
+Airtel has fixed these vulnerabilities and it is recommended to update Airtel Thanks application to the latest version from Play Store.</description>
+    </item>
+    
+    <item>
+      <title>Introducing InsecureShop</title>
+      <link>https://examplesite.com/posts/introducing-insecureshop/</link>
+      <pubDate>Sat, 18 Dec 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://examplesite.com/posts/introducing-insecureshop/</guid>
+      <description>About InsecureShop InsecureShop is an intentionally designed vulnerable Android application built in Kotlin.
+The aim of creating this application is to teach developers and security professionals about the vulnerabilities present in modern Android applications. This also serves as a platform to test your Android pentesting skills.
+The InsecureShop project was released as part of the SourceZeroCon 2021 (Slides | Video).
+You can checkout the project here: https://www.insecureshopapp.com
+Research In early 2020, I started my research on Android WebView and how loading an untrusted URL in applications&amp;rsquo; WebView can lead to the exfiltration of session cookies and local storage files by leveraging symlink attacks and insecure WebView properties.</description>
+    </item>
+    
+  </channel>
+</rss>

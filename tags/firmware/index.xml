@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>firmware on Gaurang Bhatnagar</title>
+    <link>https://examplesite.com/tags/firmware/</link>
+    <description>Recent content in firmware on Gaurang Bhatnagar</description>
+    <image>
+      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 30 Oct 2021 11:30:03 +0000</lastBuildDate><atom:link href="https://examplesite.com/tags/firmware/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pentesting an IOT based Biometric Attendance device</title>
+      <link>https://examplesite.com/posts/pentesting-iot-biometric/</link>
+      <pubDate>Sat, 30 Oct 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://examplesite.com/posts/pentesting-iot-biometric/</guid>
+      <description>During one of the Red Team engagements, I got a chance to pentest a Biometric attendance device that the client often used to mark the attendance and restrict access to specific rooms.
+I did not pop any zero-days here, but several misconfigurations were leveraged that allowed me to achieve root access on the device.
+Following is the snapshot of the device I was testing.
+Starting with the assessment, I found that the device was connected to the network, and I was able to get its IP address from the device’s network settings.</description>
+    </item>
+    
+  </channel>
+</rss>
