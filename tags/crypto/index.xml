@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Crypto on Gaurang Bhatnagar</title>
+    <link>https://offsec.space/tags/crypto/</link>
+    <description>Recent content in Crypto on Gaurang Bhatnagar</description>
+    <image>
+      <url>https://offsec.space/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://offsec.space/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 25 Sep 2023 00:01:03 +0000</lastBuildDate><atom:link href="https://offsec.space/tags/crypto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beyond Base64: The Vulnerability Leaving Millions of Calls Exposed</title>
+      <link>https://offsec.space/posts/beyond-base64/</link>
+      <pubDate>Mon, 25 Sep 2023 00:01:03 +0000</pubDate>
+      
+      <guid>https://offsec.space/posts/beyond-base64/</guid>
+      <description>Time and again, we&amp;rsquo;re reminded that mere encoding doesn&amp;rsquo;t equate to robust encryption or security. Relying primarily on encoding as a defense can expose companies to unexpected vulnerabilities. While encoding can help obscure information, it&amp;rsquo;s crucial to remember it&amp;rsquo;s not a substitute for genuine encryption or tight access control.
+This recent lapse came to light in a popular online consulting platform&amp;rsquo;s mobile app, available on both Android and iOS.
+As the focus of this blog article is educational, centered around the vulnerability, I will abstain from naming the organization.</description>
+    </item>
+    
+  </channel>
+</rss>
